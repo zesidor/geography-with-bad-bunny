@@ -1,9 +1,9 @@
 body {
-  background-color: #81ecec;
+  background-color: #74b9ff;
 }
 
 .container {
   display:flex;
   gap:24px;
-  align-items:flex-start;
+  align-items:flex-end;
 }
